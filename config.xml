@@ -17,7 +17,7 @@ author:			ruckage
 	<include>./rating/heart.xml</include>	
 
 <!-- Choose your theme style (snes_europe or snes_usa or nes_rich_europe or nes_rich_usa or nes_simple_europe or nes_simple_usa) -->	
-	<include>./style/nes_simple_usa.xml</include>	
+	<include>./style/snes_usa.xml</include>	
 	
 <!-- Choose your background (For the available options see the jpg files named ## BACKGROUND GUIDE ##) -->	
 	<include>./background/neon_purple.xml</include>	
