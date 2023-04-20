@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="bg_overlay" extra="true">
-			<path>./nes_mini/${system.theme}_system_bar.png</path>
+			<path>./nes_mini${region}/${system.theme}_system_bar.png</path>
 			<size>1 0.4</size>
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
@@ -18,7 +18,7 @@
 	<view name="basic, detailed, video">
 
 		<image name="bg_overlay" extra="true">
-			<path>./nes_mini/${system.theme}_system_bar.png</path>
+			<path>./nes_mini${region}/${system.theme}_system_bar.png</path>
 			<size>0.1 0.1</size>
 			<origin>0.5 0.5</origin>
 			<pos>2 2</pos>
@@ -31,7 +31,7 @@
 	<view name="basic, detailed, video, system">
 	
 		<image name="bg_color" extra="true">
-			<path>./nes_mini/${system.theme}.png</path>
+			<path>./nes_mini${region}/${system.theme}.png</path>
 			<size>1 0.7407407407407407</size>
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>

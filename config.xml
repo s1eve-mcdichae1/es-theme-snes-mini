@@ -20,7 +20,7 @@ author:			ruckage
 	<include>./style/snes_usa.xml</include>	
 	
 <!-- Choose your background (For the available options see the jpg files named ## BACKGROUND GUIDE ##) -->	
-	<include>./background/neon_purple.xml</include>	
+	<include>./background/nes_mini.xml</include>	
 	
 <!-- Choose your resolution -->	
 	<include>./layouts/1920x1080.xml</include> <!-- supported resolutions 640x480, 800x600, 1024x768, 1280x720, 1280x960, 1366x768, 1440x1080, 1920x1080, ntsc, pal -->
