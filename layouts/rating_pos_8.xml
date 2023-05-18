@@ -17,31 +17,31 @@ author:			ruckage
 			<pos>0.9291666666666666 0.737037037037037</pos>
 			<origin>0 0</origin>
 		</image>
-		
+
 		<text name="players_label" extra="true">
 			<pos>0.9291666666666667 0.733333333333333</pos>
 		</text>
-		
+
 		<text name="md_players">
 			<pos>0.9291666666666666 0.7386296296296296</pos>
 		</text>
 
 		<text name="rating_label" extra="true">
 			<pos>0.7291666666666667 0.72962962962963</pos>
-		</text>		
-		
+		</text>
+
 		<rating name="md_rating">
 			<pos>0.7354166666666667 0.762962962962963</pos>
-		</rating>	
+		</rating>
 
 		<text name="played_label" extra="true">
 			<pos>0.8270833333333333 0.72962962962963</pos>
-		</text>		
-		
+		</text>
+
 		<text name="md_playcount">
 			<pos>0.8270833333333333 0.751851851851852</pos>
 		</text>
-		 
+
 	</view>
-	
+
 </theme>

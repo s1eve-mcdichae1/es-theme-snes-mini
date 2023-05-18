@@ -6,8 +6,8 @@ To change the style open the config.xml file.
 
 Find the following line:
 
-	<include>./style/snes_europe.xml</include>	
-	
+	<include>./style/snes_europe.xml</include>
+
 The available styles are:
 
 snes_europe.xml - matches the look of the European SNES or Japanese Super Famicom
@@ -55,7 +55,7 @@ To change the layout open the config.xml file.
 Find the following line:
 
 	<include>./layouts/a.xml</include>
-	
+
 Change the letter 'a' to the letter corresponding the the layout of your choice (see ## LAYOUT GUIDE ##.png) and save the file.  When you restart Emulation Station the new layout will be active.
 
 
@@ -70,7 +70,7 @@ Find the following line:
 
 	<include>./background/neon_blue_spectrum.xml</include>
 
-Change 'neon_blue_spectrum.xml' to the background of your choice as shown in the ## BACKGROUND GUIDE ## and save the file.  When you restart Emulation Station the new background will be active.	
+Change 'neon_blue_spectrum.xml' to the background of your choice as shown in the ## BACKGROUND GUIDE ## and save the file.  When you restart Emulation Station the new background will be active.
 
 
 
@@ -82,9 +82,9 @@ To change the border style open the config.xml file.
 
 Find the following line:
 
-	<include>./rating/heart.xml</include>	
+	<include>./rating/heart.xml</include>
 
-To change to the bead icon simply change the word 'heart' to 'bead' and save the file.  When you restart Emulation Station the new icon will be active.	
+To change to the bead icon simply change the word 'heart' to 'bead' and save the file.  When you restart Emulation Station the new icon will be active.
 
 
 
@@ -97,9 +97,9 @@ To change how number of players is displayed open the config.xml file.
 
 Find the following line:
 
-	<include>./players/icon.xml</include>	
-	
-To change the player display to text simply change the word 'icon' to 'text' and save the file. When you restart Emulation Station the new setting will be active.	
+	<include>./players/icon.xml</include>
+
+To change the player display to text simply change the word 'icon' to 'text' and save the file. When you restart Emulation Station the new setting will be active.
 
 
 How to change the font size used for the gamelist.
@@ -108,8 +108,8 @@ You can choose between a big or small font to display the game titles in the gam
 
 To change the font size find the following line:
 
-	<include>./list-font-size/big.xml</include>	
-	
+	<include>./list-font-size/big.xml</include>
+
 Replace the word 'big' with 'small' to use a smaller font.
 
 
@@ -121,7 +121,7 @@ You can choose between left, right, or center alignment for the text in the game
 To change the alignment find the following line:
 
 	<include>./list-font/left-align.xml</include>
-	
+
 Replace 'left-align' with either 'right-align' or 'center-align'
 
 

@@ -4,5 +4,5 @@
 
 	<include>./config.xml</include>
 	<include>./base.xml</include>
-	
+
 </theme>

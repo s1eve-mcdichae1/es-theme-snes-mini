@@ -11,10 +11,10 @@
 			<pos>0.5 0.5</pos>
 			<color>ffffff</color>
 			<zIndex>-199</zIndex>
-		</image>	
-	
+		</image>
+
 	</view>
-	
+
 	<view name="basic, detailed, video">
 
 		<image name="bg_overlay" extra="true">
@@ -24,12 +24,12 @@
 			<pos>2 2</pos>
 			<color>ffffff</color>
 			<zIndex>-199</zIndex>
-		</image>	
-	
+		</image>
+
 	</view>
-	
+
 	<view name="basic, detailed, video, system">
-	
+
 		<image name="bg_color" extra="true">
 			<path>./nes_mini${region}/${system.theme}.png</path>
 			<size>1 0.7407407407407407</size>
@@ -37,25 +37,25 @@
 			<pos>0.5 0.5</pos>
 			<color>ffffff</color>
 			<zIndex>-200</zIndex>
-		</image>		
-		
+		</image>
+
 		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
 			<color>00dbff</color>
-		</text>		
-		
+		</text>
+
 		<datetime name="md_releasedate">
 			<color>00dbff</color>
-		</datetime>	
-		
+		</datetime>
+
 		<textlist name="gamelist">
 			<selectorColor>00baff</selectorColor>
 			<selectedColor>7adbff</selectedColor>
 			<primaryColor>ffffff9a</primaryColor>
 			<secondaryColor>00baff</secondaryColor>
-		</textlist>		
-		
-		
+		</textlist>
+
+
 	</view>
-		
-	
+
+
 </theme>

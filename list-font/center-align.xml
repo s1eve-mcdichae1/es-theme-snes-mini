@@ -3,12 +3,12 @@
     <formatVersion>3</formatVersion>
 
 	<view name="basic, detailed, video, system">
-		
+
 		<textlist name="gamelist">
 			<alignment>center</alignment>
-		</textlist>	
+		</textlist>
 
 	</view>
-		
-	
+
+
 </theme>

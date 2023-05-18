@@ -15,7 +15,7 @@ Commercial distribution is prohibited
 
 If in doubt please ask in the dedictated topic at the retropie forum: https://retropie.org.uk/forum/topic/12583/snes-mini-theme
 
--------------------------------------------------------------------------------  
+-------------------------------------------------------------------------------
 
 Currently this theme supports:
 
@@ -93,7 +93,7 @@ Custom collections are now supported. Changing region style to USA will now auto
 Changing region style to USA will now automagically change the icon, logo, and background for the SNES to the USA style. Removed missing.png as it was sometimes visible behind boxart etc. Updated the help images for USA style as the button colours were reversed.
 
 28/09/17
-Changed help buttons to correctly match ES functions. Added option to switch between icon/text for number of players. Fixed naming error with nds icon.  Changed ${system.name} to ${system.theme} as advised by @jdrassa.  
+Changed help buttons to correctly match ES functions. Added option to switch between icon/text for number of players. Fixed naming error with nds icon.  Changed ${system.name} to ${system.theme} as advised by @jdrassa.
 
 26/09/2017
 Initial release
