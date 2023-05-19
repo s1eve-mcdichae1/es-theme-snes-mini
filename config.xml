@@ -7,7 +7,7 @@ author:			ruckage
 <theme>
     <formatVersion>3</formatVersion>
 
-<!-- Choose your layout ()see ## LAYOUT GUIDE ##.png) -->
+<!-- Choose your layout (see ## LAYOUT GUIDE ##.png) -->
 	<include>./layouts/a.xml</include>
 
 <!-- Choose how number of players is displayed (icon or text) -->
@@ -22,8 +22,8 @@ author:			ruckage
 <!-- Choose your background (For the available options see the jpg files named ## BACKGROUND GUIDE ##) -->
 	<include>./background/neon_purple_blur.xml</include>
 
-<!-- Choose your resolution -->
-	<include>./layouts/1920x1080.xml</include> <!-- supported resolutions 640x480, 800x600, 1024x768, 1280x720, 1280x960, 1366x768, 1440x1080, 1920x1080, ntsc, pal -->
+<!-- Choose your resolution (supported resolutions 640x480, 800x600, 1024x768, 1280x720, 1280x960, 1366x768, 1440x1080, 1920x1080, ntsc, pal) -->
+	<include>./layouts/1920x1080.xml</include>
 
 <!-- Choose font size used in the gamelist (big or small) -->
 	<include>./list-font/big.xml</include>
